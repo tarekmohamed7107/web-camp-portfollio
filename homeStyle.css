@@ -72,5 +72,11 @@ p{
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
+footer{
+  text-align: center;
+  font-weight: lighter;
+  font-size:25px ;
+}
+
 
   
